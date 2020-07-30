@@ -9,4 +9,4 @@ The encryption takes a few days of running the code on a standard laptop with 16
 
 Partially homomorphic encryption provided by (https://github.com/data61/python-paillier library)
 
-E-mail rb622@njit.edu for any questions! I'm currently open for exciting opportunites in data science!
+E-mail rb622@njit.edu for any questions! I'm currently open for exciting opportunites in data science/python dev in case you or someone you know is looking for a collaborator/data scientist! :)
